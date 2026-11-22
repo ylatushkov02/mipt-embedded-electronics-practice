@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "HW2_Footprints") (type "KiCad") (uri "${KIPRJMOD}/HW2_Footprints.pretty") (options "") (descr "Footprints for HW2"))
+)

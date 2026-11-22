@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "filename": "HW3.kicad_pro",
+    "version": 3
+  },
+  "schematic": {
+    "page_layout_descr_file": "GOST_A4.kicad_wks"
+  },
+  "sheets": [
+    [
+      "e3282ae8-5006-483f-8e89-935ecb4cd172",
+      "Root"
+    ],
+    [
+      "bb6e1dc1-6851-4d92-95c3-d0d4bdf1c605",
+      "Лист 2"
+    ]
+  ]
+}

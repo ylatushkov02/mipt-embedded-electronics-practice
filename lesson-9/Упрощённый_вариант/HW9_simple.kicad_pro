@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "filename": "HW9_simple.kicad_pro",
+    "version": 3
+  },
+  "schematic": {
+    "page_layout_descr_file": "GOST_A4.kicad_wks"
+  },
+  "pcbnew": {
+    "page_layout_descr_file": ""
+  },
+  "sheets": [
+    [
+      "7f193529-d11e-418a-a2e0-aa4059a186f4",
+      "Root"
+    ]
+  ]
+}
